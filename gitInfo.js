@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = "I see git as a checkpoint for projects and to see the progress of the project."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = "My definition for github is just an online storage for your projects. You are able to store it there as well and download it."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition = "The command git init is you storing your code into a git repository."
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = "The copy of a specific branch in the code."
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+let gitStatusDefinition = "Tells me about the specific repository I'm on."
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,9 @@
 */
 
 //CODE HERE
+let gitAddDefinition = "Adding file to start being track"
+
+let gitAddCode = "git add"
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,7 +72,9 @@
 */
 
 //CODE HERE
+let gitCommitDefinition = "creates a snapshot (checkpoint) of the version of a project."
 
+let gitCommitCode = "git commit."
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +83,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = "Sends project to cloud server (Github)."
