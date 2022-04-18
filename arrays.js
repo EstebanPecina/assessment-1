@@ -42,9 +42,21 @@ const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 // CODE HERE
 
-let answers = [] 
+// let answers = [] 
+// for (let i = 0; i < bigOrSmallArray.length; i++) {
+//   console.log(bigOrSmallArray)
+//   }
+// ^ what i did
+
+/// trying again vvv
+
+let answers = [];
+
 for (let i = 0; i < bigOrSmallArray.length; i++) {
-  if (bigOrSmallArray > 100) {
-    console.log(bigOrSmallArray)
+  if(bigOrSmallArray[i] > 100) {
+    answers.push("big"); //< adding numbers to answers replacing it to big //  
+  }    else if(bigOrSmallArray[i] < 100) {
+    answers.push('small'); // < adding numbers to answers replacing it to small //
   }
 }
+console.log(answers)

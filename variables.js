@@ -42,6 +42,7 @@ if(faveNum === 13) {
 */
 
 //CODE HERE
-for (let faveNum = 0; faveNum < 5; i++) {
-  console.log(faveNum[i]);
+for (let i = 0; i < 5; i++){
+  console.log(faveNum)
 }
+/// Had mixed it up...////
